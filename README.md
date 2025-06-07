@@ -3,7 +3,7 @@
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.21.5-green.svg)](https://minecraft.net)
 [![Forge](https://img.shields.io/badge/Forge-55.0.21-orange.svg)](https://files.minecraftforge.net)
 [![Version](https://img.shields.io/badge/Version-1.2.3-blue.svg)](https://github.com/wsadqert/minecraft-FixItem/releases)
-[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
 
 A simple yet powerful Minecraft Forge mod that adds item repair and durability management commands to your server or singleplayer world.
 
