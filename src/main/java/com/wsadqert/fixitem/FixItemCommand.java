@@ -97,7 +97,7 @@ public class FixItemCommand {
 
 									if (!item.isEmpty() && item.isDamageableItem()) {
 										int durability = IntegerArgumentType.getInteger(ctx, "durability");
-										float percent = durability / item.getMaxDamage();
+										float percent = (float) durability / item.getMaxDamage();
 
 										item.setDamageValue(item.getMaxDamage() - durability);
 
@@ -105,7 +105,7 @@ public class FixItemCommand {
 												.append(item.getHoverName().copy()
 														.withStyle(Style.EMPTY.withColor(TextColor.fromRgb(0x00FF00))))
 												.append(" durability to " + percent * 100 + "% ("
-														+ item.getMaxDamage() * percent + "/" + item.getMaxDamage()
+														+ durability + "/" + item.getMaxDamage()
 														+ ")"));
 										
 										player.inventoryMenu.broadcastChanges();
