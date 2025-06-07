@@ -149,7 +149,7 @@ All Rights Reserved - See [LICENSE](LICENSE) file for details.
 ## 🔗 Links
 
 - **GitHub Repository**: [https://github.com/wsadqert/minecraft-FixItem](https://github.com/wsadqert/minecraft-FixItem)
-- **CurseForge**: [https://curseforge.com/minecraft/mc-mods/fixitem](https://legacy.curseforge.com/minecraft/mc-mods/fixitem)
+- **CurseForge**: [https://curseforge.com/minecraft/mc-mods/fixitem](https://curseforge.com/minecraft/mc-mods/fixitem)
 - **Modrinth**: [https://modrinth.com/mod/fixitem](https://modrinth.com/mod/fixitem)
 
 ---
